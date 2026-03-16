@@ -1,51 +1,23 @@
-# Hi there, I'm Fran
+# Hi, I'm Franvy
 
-I'm a full-stack developer focused on building practical, polished products with modern web technologies.
+Full-stack developer building practical, polished products with modern web technologies.
 
-- Building with `Next.js`, `React`, `TypeScript`, `Java`, and `Spring Boot`
-- Interested in product engineering, frontend experience, system design, and developer tooling
-- Exploring better full-stack workflows around `OpenAPI`, `TanStack Query`, `React Hook Form`, `Zod`, and `shadcn/ui`
+## Focus
 
-## About Me
+`Next.js` `React` `TypeScript` `Java` `Spring Boot`
 
-I like turning messy requirements into clear systems and usable interfaces.
-Most of my recent work and notes revolve around:
+I work on:
 
 - modern admin systems
 - frontend architecture and UI engineering
-- Java + React collaboration patterns
-- API-first development and type-safe integration
+- API-first, type-safe full-stack workflows
 
-## Tech Stack
+## Interests
 
-**Frontend**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui`
-
-**Backend**
-
-`Java` `Spring Boot` `Spring Security` `JPA`
-
-**DX / Architecture**
-
-`OpenAPI` `TanStack Query` `React Hook Form` `Zod`
-
-## What I'm Working On
-
-- Building better full-stack templates for real-world business systems
-- Improving frontend maintainability and developer experience
-- Writing practical notes on architecture, stack choices, and implementation details
+`OpenAPI` `TanStack Query` `React Hook Form` `Zod` `shadcn/ui`
 
 ## Philosophy
 
-I care about software that is:
-
 - clear before clever
-- scalable without being overengineered
-- pleasant for both users and developers
-
-## Let's Connect
-
-I'm always interested in thoughtful product work, engineering collaboration, and good technical conversations.
-
-If you're working on something interesting, feel free to reach out.
+- scalable without overengineering
+- good for both users and developers
