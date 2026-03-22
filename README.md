@@ -1,23 +1,26 @@
 # Hi, I'm Franvy
 
-Full-stack developer building practical, polished products with modern web technologies.
+Full-stack developer focused on building small, practical, and well-crafted products.
 
 ## Focus
 
-`Next.js` `React` `TypeScript` `Java` `Spring Boot`
+`Next.js` `React` `TypeScript` `Shadcn/UI` `PostgreSQL` `Spring Boot` `Java` `Rust` `Swift` `Figma`
 
 I work on:
 
-- modern admin systems
-- frontend architecture and UI engineering
-- API-first, type-safe full-stack workflows
-
-## Interests
-
-`OpenAPI` `TanStack Query` `React Hook Form` `Zod` `shadcn/ui`
+- Build modern admin systems and internal tools.
+- Design clean and scalable frontend architectures.
+- Develop API-first, type-safe full-stack workflows.
 
 ## Philosophy
 
-- clear before clever
-- scalable without overengineering
-- good for both users and developers
+- clear over clever.
+- practical over complex.
+- solve real problems, not imaginary ones.
+
+## About
+
+I enjoy building small, useful, and thoughtful products that improve real workflows.
+I believe the value of technology lies in solving real-world problems.
+
+==> franvy.com
