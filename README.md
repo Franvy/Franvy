@@ -23,4 +23,4 @@ I work on:
 I enjoy building small, useful, and thoughtful products that improve real workflows.
 I believe the value of technology lies in solving real-world problems.
 
-==> franvy.com
+franvy.com
