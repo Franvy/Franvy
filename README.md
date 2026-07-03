@@ -4,7 +4,7 @@ Full-stack developer focused on building small, practical, and well-crafted prod
 
 ## Focus
 
-`Next.js` `React` `TypeScript` `Shadcn/UI` `PostgreSQL` `Spring Boot` `Java` `Rust` `Swift` `Figma`
+`Next.js` `React` `TypeScript` `Shadcn/UI` `PostgreSQL` `Spring Boot` `Java` `Rust` `Swift` `Figma` `Paper`
 
 I work on:
 
